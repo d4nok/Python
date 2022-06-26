@@ -2,6 +2,6 @@ variable = 2 > 4
 
 
 if variable:
-    print('EL resultado fue verdadero')
+    print('The result is false')
 else:
-    print('El resultado es falso')
+    print('The result is false')
