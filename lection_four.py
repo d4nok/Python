@@ -1,6 +1,6 @@
 #data input
 
-resultado = input("Type numbers:")
+resultado = input("Type your name:")
 print('welcome '+ resultado)
 
 numero1= int(input("Type the first number:"))
