@@ -3,7 +3,7 @@ from stringprep import in_table_a1
 
 operandoA = int(input("Insert the first number:"))
 operandoB = int(input("Insert the second number:"))
-# OPERADOERES ARITMETIOS EN PYTHON
+# ARITMETIC OPERATORSS
 suma = operandoA + operandoB
 print(f'Resultado de la resta: {suma}')
 
